@@ -1,0 +1,1 @@
+java -jar --module-path "Downloads/CookieCalcDownload/javafx-sdk-18/lib" --add-modules javafx.controls,javafx.fxml "Downloads/CookieCalcDownload/Cookie_Calculator.jar"
